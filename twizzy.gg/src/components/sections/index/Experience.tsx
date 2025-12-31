@@ -34,7 +34,7 @@ export default function Experience() {
                         gradient="bg-gradient-to-br"
                     />
                     <ExperienceCard
-                        url="https://www.kyos.bot"
+                        url="https://discord.com/oauth2/authorize?client_id=1455758313231876129&permissions=8&integration_type=0&scope=bot"
                         title="kyos"
                         fullDescription={[
                             "Kyos is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place. It's a leading bot for management and engagement, built to elevate community experiences and streamline server management.",
@@ -44,8 +44,8 @@ export default function Experience() {
                         cardImage="/kyos.png"
                         cardDescription="Kyos is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
                         media={[]}
-                        myRole="Developer"
-                        timeline="September 2024 - December 2025"
+                        myRole="Founder/Lead Developer"
+                        timeline="September 2022 - December 2025"
                         delay={0.2}
                         gradient="bg-gradient-to-br"
                     />
