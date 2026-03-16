@@ -45,7 +45,7 @@ export default function Experience() {
                         cardDescription="Kyos is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
                         media={[]}
                         myRole="Founder/Lead Developer"
-                        timeline="September 2022 - December 2025"
+                        timeline="September 2022 - Present"
                         delay={0.2}
                         gradient="bg-gradient-to-br"
                     />
