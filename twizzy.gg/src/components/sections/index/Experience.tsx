@@ -28,7 +28,7 @@ export default function Experience() {
                         cardImage="/kyo.png"
                         cardDescription="Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more."
                         media={[]}
-                        myRole="Head Developer"
+                        myRole="Discontinued"
                         timeline="March 2021 - 2023"
                         delay={0.1}
                         gradient="bg-gradient-to-br"
